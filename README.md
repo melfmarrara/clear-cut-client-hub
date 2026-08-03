@@ -1,9 +1,3 @@
-# Painter Pro
-
-want to create a similiar website to this for a business https://main.profitablepaintercpa.com/ only i want mine to have an about section services and a contact form and contact page
-
-This project was built with [Lovable](https://lovable.dev).
-
 ## Build with Lovable
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/9170969a-48cc-401a-b31e-c313e311558c).
